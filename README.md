@@ -4,5 +4,5 @@
 •	We will introduce a comparison between Classical and Quantum computers.
 
 
-<h2>References/Bibliography<h2>
-  <p>Internet and Team</p>
+<h2>References/Bibliography<h2>  
+Internet and Team
